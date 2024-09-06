@@ -1,0 +1,31 @@
+.nav-item-btn a{
+    background-color: #fec901;
+    text-decoration: none;
+    padding: 4px 25px;
+    border-radius: 8px;
+    color: rgb(4, 4, 4);
+}
+.nav-item-btn1 a{
+    text-decoration: none;
+    color: black;
+    padding: 2px;
+}
+.nav-item-btn a:hover{
+    color: #0000;
+    background: 
+      linear-gradient(90deg,#1095c1 50%,#000 0) 
+      var(--_p,100%)/200% no-repeat;
+    -webkit-background-clip: text;
+            background-clip: text;
+    transition: .7s;
+}
+.logo{
+    height: 58px;
+    width: 71px;
+}
+.navbar{
+    padding: 0;
+}
+.navsticky{
+    position: fixed;
+}

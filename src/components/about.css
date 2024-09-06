@@ -1,0 +1,26 @@
+h2{
+    text-align: center;
+    font-weight: normal;
+}
+.img-section{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #fec901;
+    border-radius: 50%;
+}
+
+.img-section img{
+    width: 50px;
+    height: 50px;
+    margin-top: 22px;
+}
+.column{
+    float: left;
+    text-align: center;
+}
+.iconNames{
+    text-align: center;
+}
+.about-cont{
+    margin-top: -3.75%!important;
+}

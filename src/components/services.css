@@ -1,0 +1,52 @@
+.services{
+    display: inline-block;
+    width: 100%;
+    padding-top: 70px; 
+    text-align: center;
+    margin-bottom: 40px;   
+}
+.services h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+.services p{
+    text-align: center;
+    line-height: 22px;
+}
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .container{
+  
+    width: 100%;
+    margin: auto;
+    padding: 20px 0;
+  }
+  .photo-gallery{
+    display: flex;
+    gap: 10px;
+  }
+  .column{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .photo img{
+    object-fit: cover;
+    border-radius: 5px;
+    transition: all 1s ease;
+  }
+  .photo{
+    overflow: hidden;
+  }
+  .photo:hover img{
+    transform: scale(1.5);
+  }
+ p{
+  line-height: 22px;
+ }
+ .full-width{
+  width:100%;
+ }

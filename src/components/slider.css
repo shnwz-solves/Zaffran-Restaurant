@@ -1,0 +1,14 @@
+.c-item{
+    height: 590px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+.carousel-caption{
+    padding-bottom: 125px;
+}
+.carousel{
+    margin-top:60px;
+}
