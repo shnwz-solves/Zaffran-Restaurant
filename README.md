@@ -1,3 +1,6 @@
+# To read documentation
+[click here](https://github.com/shnwz-solves/Zaffran-Restaurant/blob/main/Zaffran%20Restaurant%20Website%20Documentation.pdf)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
